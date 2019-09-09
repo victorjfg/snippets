@@ -1,1 +1,3 @@
-# snippets
+# my personal blog
+
+
